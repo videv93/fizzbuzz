@@ -2,6 +2,8 @@ Number Formatter
 =========
 
 A small library that adds commas to numbers
+[![Build Status](https://travis-ci.org/videv93/fizzbuzz.svg?branch=master)](https://travis-ci.org/videv93/fizzbuzz)
+[![Coverage Status](https://coveralls.io/repos/github/videv93/fizzbuzz/badge.svg?branch=master)](https://coveralls.io/github/videv93/fizzbuzz?branch=master)
 
 ## Installation
 
